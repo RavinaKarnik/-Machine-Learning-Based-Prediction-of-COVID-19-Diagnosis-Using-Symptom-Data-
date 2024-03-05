@@ -1,4 +1,8 @@
 # -Machine-Learning-Based-Prediction-of-COVID-19-Diagnosis-Using-Symptom-Data-
+
+![Covid-19 Thumbnail](https://github.com/RavinaKarnik/-Machine-Learning-Based-Prediction-of-COVID-19-Diagnosis-Using-Symptom-Data-/assets/130289037/46bcaa69-6d0a-4675-a7e8-f77991f83c1b)
+
+
 ### Aiming for a rapid and accurate diagnosis of COVID-19, this project utilizes effective screening models to reduce the burden on healthcare systems. The dataset, obtained from the 'ABC' government website, comprises 2,78,848 individuals who underwent the RT-PCR test. The dataset includes key features suspected to influence COVID-19 outcomes. The dataset is divided into training, validation, and test sets, with a detailed breakdown of features.
 
 ## Features:-
